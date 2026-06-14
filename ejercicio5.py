@@ -6,7 +6,7 @@ elif nota < 5:
     print("suspenso")
 elif nota < 7:
     print("aprobado")
-elif nota < 8:
+elif nota < 9:
     print("notable")
 else:
     print("sobresaliente")
